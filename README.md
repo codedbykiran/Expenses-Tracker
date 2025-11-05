@@ -26,7 +26,7 @@ A simple and user-friendly web app to help track daily expenses and manage budge
 ## Live Demo
 
 🔗 Visit the live app here:  
-https://kirancharhate781-collab.github.io/Expenses-Tracker/
+https://codedbykiran.github.io/Expenses-Tracker/
 
 ---
 
